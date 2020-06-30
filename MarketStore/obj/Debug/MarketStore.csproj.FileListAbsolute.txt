@@ -1,0 +1,7 @@
+C:\Users\nikol\OneDrive\Desktop\Uvod u objektno programiranje projekti\MarketStore\MarketStore\bin\Debug\MarketStore.exe.config
+C:\Users\nikol\OneDrive\Desktop\Uvod u objektno programiranje projekti\MarketStore\MarketStore\bin\Debug\MarketStore.exe
+C:\Users\nikol\OneDrive\Desktop\Uvod u objektno programiranje projekti\MarketStore\MarketStore\bin\Debug\MarketStore.pdb
+C:\Users\nikol\OneDrive\Desktop\Uvod u objektno programiranje projekti\MarketStore\MarketStore\obj\Debug\MarketStore.csprojResolveAssemblyReference.cache
+C:\Users\nikol\OneDrive\Desktop\Uvod u objektno programiranje projekti\MarketStore\MarketStore\obj\Debug\MarketStore.csproj.CoreCompileInputs.cache
+C:\Users\nikol\OneDrive\Desktop\Uvod u objektno programiranje projekti\MarketStore\MarketStore\obj\Debug\MarketStore.exe
+C:\Users\nikol\OneDrive\Desktop\Uvod u objektno programiranje projekti\MarketStore\MarketStore\obj\Debug\MarketStore.pdb
